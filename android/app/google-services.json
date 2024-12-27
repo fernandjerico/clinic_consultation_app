@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "40669968634",
+    "project_id": "clinic-consultation-app",
+    "storage_bucket": "clinic-consultation-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40669968634:android:069e689d72ee91cb9d3143",
+        "android_client_info": {
+          "package_name": "com.ferico.clinic_consultation_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHkQB_7-6pf2_5SSXqawwaLi4LTpJFJAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
